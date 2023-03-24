@@ -1,0 +1,10 @@
+/.expo
+/.idea
+/app.json
+/assets
+/babel.config.js
+/config.jsx
+/metro.config.js
+/node_modules
+/package-lock.json
+/package.json
